@@ -46,7 +46,7 @@
           <mxGeometry x="1270" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-13" value="留言板管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1303" y="230" width="50" height="111" as="geometry" />
+          <mxGeometry x="1340" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-14" value="公告管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1808" y="235" width="50" height="111" as="geometry" />
@@ -144,7 +144,7 @@
           <mxGeometry x="1310" y="680" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-50" value="公告查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="257" width="50" height="111" as="geometry" />
+          <mxGeometry x="1390" y="529" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-51" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1478.5" y="257" width="50" height="111" as="geometry" />
