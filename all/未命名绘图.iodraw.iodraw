@@ -39,22 +39,22 @@
         <mxCell id="FY9fSNRc76BrtQjeK7CD-10" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1112" y="235" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-11" value="衣物管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FY9fSNRc76BrtQjeK7CD-11" value="衣物管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1286" y="235" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-12" value="设备管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FY9fSNRc76BrtQjeK7CD-12" value="设备管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1460" y="235" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-13" value="留言板管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FY9fSNRc76BrtQjeK7CD-13" value="留言板管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1634" y="235" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-14" value="公告管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FY9fSNRc76BrtQjeK7CD-14" value="公告管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1808" y="235" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-15" value="平台管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FY9fSNRc76BrtQjeK7CD-15" value="平台管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1982" y="235" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-16" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FY9fSNRc76BrtQjeK7CD-16" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="2156" y="235" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-2" target="FY9fSNRc76BrtQjeK7CD-4">
