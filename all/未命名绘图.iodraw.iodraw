@@ -34,7 +34,7 @@
           <mxGeometry x="958" y="219" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-9" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="219" width="50" height="111" as="geometry" />
+          <mxGeometry x="1058.5" y="219" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-10" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1272" y="280" width="50" height="111" as="geometry" />
