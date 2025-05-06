@@ -16,7 +16,7 @@
           <mxGeometry x="850" y="152" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-3" value="管理员模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="152" width="140" height="49" as="geometry" />
+          <mxGeometry x="1190" y="152" width="1424" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-4" value="衣物设备浏览" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="712.75" y="257" width="50" height="111" as="geometry" />
@@ -56,27 +56,6 @@
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-16" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2156" y="235" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-3" target="FY9fSNRc76BrtQjeK7CD-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1870" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-3" target="FY9fSNRc76BrtQjeK7CD-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2044" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-3" target="FY9fSNRc76BrtQjeK7CD-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2218" y="210" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-33" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
