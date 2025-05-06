@@ -19,7 +19,7 @@
           <mxGeometry x="1190" y="152" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-4" value="衣物设备浏览" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="712.75" y="260" width="50" height="111" as="geometry" />
+          <mxGeometry x="712.75" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-5" value="租赁预约" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="782.75" y="260" width="50" height="111" as="geometry" />
