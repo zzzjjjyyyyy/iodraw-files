@@ -57,13 +57,6 @@
         <mxCell id="FY9fSNRc76BrtQjeK7CD-16" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2156" y="235" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-1" target="FY9fSNRc76BrtQjeK7CD-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1696" y="111" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-2" target="FY9fSNRc76BrtQjeK7CD-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -96,13 +89,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="826" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-2" target="FY9fSNRc76BrtQjeK7CD-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1000" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
