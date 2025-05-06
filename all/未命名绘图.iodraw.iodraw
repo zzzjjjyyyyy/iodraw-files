@@ -22,7 +22,7 @@
           <mxGeometry x="712.75" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-5" value="租赁预约" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="782.75" y="260" width="50" height="111" as="geometry" />
+          <mxGeometry x="782.75" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-6" value="充值与支付" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="852.75" y="260" width="50" height="111" as="geometry" />
@@ -150,8 +150,8 @@
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;endSize=4;jumpSize=3;startSize=4;sourcePerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="807.19" y="259" as="targetPoint" />
-            <mxPoint x="807.19" y="221" as="sourcePoint" />
+            <mxPoint x="807.19" y="258" as="targetPoint" />
+            <mxPoint x="807.19" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;endSize=4;jumpSize=3;startSize=4;sourcePerimeterSpacing=0;" edge="1" parent="1">
