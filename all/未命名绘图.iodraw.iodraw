@@ -153,10 +153,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FY9fSNRc76BrtQjeK7CD-33" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="120" as="sourcePoint" />
-            <mxPoint x="1230" y="120" as="targetPoint" />
+            <mxPoint x="1260" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
