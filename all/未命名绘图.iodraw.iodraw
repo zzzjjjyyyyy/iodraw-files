@@ -131,24 +131,6 @@
             <mxPoint x="947.19" y="219" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-46" value="衣物设备浏览" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="570" width="50" height="111" as="geometry" />
-        </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-47" value="租赁预约" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="620" width="50" height="111" as="geometry" />
-        </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-48" value="充值与支付" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="640" width="50" height="111" as="geometry" />
-        </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-49" value="交流反馈" style="whiteSpace=wrap;strokeWidth=2;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="680" width="50" height="111" as="geometry" />
-        </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-50" value="公告查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="529" width="50" height="111" as="geometry" />
-        </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-51" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="500" width="50" height="111" as="geometry" />
-        </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;endSize=4;jumpSize=3;startSize=4;sourcePerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1364.69" y="219" as="targetPoint" />
