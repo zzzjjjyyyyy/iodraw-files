@@ -21,10 +21,10 @@
         <mxCell id="FY9fSNRc76BrtQjeK7CD-4" value="衣物设备浏览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="235" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-5" value="租赁预约" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FY9fSNRc76BrtQjeK7CD-5" value="租赁预约" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="226" y="235" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-6" value="充值与支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FY9fSNRc76BrtQjeK7CD-6" value="充值与支付" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="400" y="235" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-7" value="交流反馈" style="whiteSpace=wrap;strokeWidth=2;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;" vertex="1" parent="1">
