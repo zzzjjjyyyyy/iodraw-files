@@ -25,16 +25,16 @@
           <mxGeometry x="782.75" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-6" value="充值与支付" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="852.75" y="260" width="50" height="111" as="geometry" />
+          <mxGeometry x="852.75" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-7" value="交流反馈" style="whiteSpace=wrap;strokeWidth=2;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="922.75" y="260" width="50" height="111" as="geometry" />
+          <mxGeometry x="922.75" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-8" value="公告查看" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="992.75" y="260" width="50" height="111" as="geometry" />
+          <mxGeometry x="992.75" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-9" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1061.25" y="260" width="50" height="111" as="geometry" />
+          <mxGeometry x="1061.25" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-10" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1272" y="280" width="50" height="111" as="geometry" />
