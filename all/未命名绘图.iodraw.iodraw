@@ -27,7 +27,7 @@
         <mxCell id="FY9fSNRc76BrtQjeK7CD-6" value="充值与支付" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="235" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-7" value="交流反馈" style="whiteSpace=wrap;strokeWidth=2;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="FY9fSNRc76BrtQjeK7CD-7" value="交流反馈" style="whiteSpace=wrap;strokeWidth=2;horizontal=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="600" y="380" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-8" value="公告查看" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
