@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="FY9fSNRc76BrtQjeK7CD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;endSize=4;jumpSize=3;startSize=4;sourcePerimeterSpacing=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1084" y="130" as="targetPoint" />
+            <mxPoint x="1084" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-1" value="基于JavaWeb的衣物管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -56,13 +56,6 @@
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-16" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2156" y="235" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-1" target="FY9fSNRc76BrtQjeK7CD-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="561" y="111" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-1" target="FY9fSNRc76BrtQjeK7CD-3">
           <mxGeometry relative="1" as="geometry">
