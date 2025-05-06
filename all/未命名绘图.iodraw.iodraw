@@ -55,7 +55,7 @@
           <mxGeometry x="1480" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-16" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="2156" y="235" width="50" height="111" as="geometry" />
+          <mxGeometry x="1550" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-33" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -158,7 +158,7 @@
         <mxCell id="FY9fSNRc76BrtQjeK7CD-53" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1154.25" y="220" as="sourcePoint" />
-            <mxPoint x="1504.25" y="220" as="targetPoint" />
+            <mxPoint x="1580" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;endSize=4;jumpSize=3;startSize=4;sourcePerimeterSpacing=0;" edge="1" parent="1">
