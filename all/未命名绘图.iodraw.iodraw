@@ -16,7 +16,7 @@
           <mxGeometry x="850" y="152" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-3" value="管理员模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1303" y="140" width="124" height="49" as="geometry" />
+          <mxGeometry x="1310" y="152" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-4" value="衣物设备浏览" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="712.75" y="257" width="50" height="111" as="geometry" />
@@ -151,11 +151,11 @@
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;endSize=4;jumpSize=3;startSize=4;sourcePerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1328.69" y="219" as="targetPoint" />
-            <mxPoint x="1328.69" y="201" as="sourcePoint" />
+            <mxPoint x="1364.69" y="219" as="targetPoint" />
+            <mxPoint x="1364.69" y="201" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1329" y="210" />
-              <mxPoint x="1329" y="210" />
+              <mxPoint x="1365" y="210" />
+              <mxPoint x="1365" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
