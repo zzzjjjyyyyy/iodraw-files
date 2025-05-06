@@ -43,16 +43,16 @@
           <mxGeometry x="1200" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-12" value="设备管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="280" width="50" height="111" as="geometry" />
+          <mxGeometry x="1270" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-13" value="留言板管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1634" y="235" width="124" height="49" as="geometry" />
+          <mxGeometry x="1634" y="235" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-14" value="公告管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1808" y="235" width="124" height="49" as="geometry" />
+          <mxGeometry x="1808" y="235" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-15" value="平台管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1982" y="235" width="124" height="49" as="geometry" />
+          <mxGeometry x="1982" y="235" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-16" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2156" y="235" width="124" height="49" as="geometry" />
