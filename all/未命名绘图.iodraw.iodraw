@@ -19,7 +19,7 @@
           <mxGeometry x="1190" y="152" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-4" value="衣物设备浏览" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="20" y="235" width="156" height="49" as="geometry" />
+          <mxGeometry x="20" y="235" width="90" height="125" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-5" value="租赁预约" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="226" y="235" width="54" height="95" as="geometry" />
@@ -56,13 +56,6 @@
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-16" value="订单管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="2156" y="235" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-2" target="FY9fSNRc76BrtQjeK7CD-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="98" y="210" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FY9fSNRc76BrtQjeK7CD-2" target="FY9fSNRc76BrtQjeK7CD-5">
           <mxGeometry relative="1" as="geometry">
