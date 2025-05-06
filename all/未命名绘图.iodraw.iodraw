@@ -40,7 +40,7 @@
           <mxGeometry x="1130" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-11" value="衣物管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="490" width="50" height="111" as="geometry" />
+          <mxGeometry x="1200" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-12" value="设备管理" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1620" y="280" width="50" height="111" as="geometry" />
