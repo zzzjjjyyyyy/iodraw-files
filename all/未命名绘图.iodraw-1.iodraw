@@ -76,12 +76,6 @@
             <mxPoint x="590" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="koz2vMRJELtvZAh-Ysxc-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="375" as="sourcePoint" />
-            <mxPoint x="590" y="325" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="koz2vMRJELtvZAh-Ysxc-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="koz2vMRJELtvZAh-Ysxc-9" target="koz2vMRJELtvZAh-Ysxc-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
