@@ -18,7 +18,7 @@
         <mxCell id="FY9fSNRc76BrtQjeK7CD-3" value="管理员模块" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1303" y="152" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FY9fSNRc76BrtQjeK7CD-4" value="衣物设备浏览" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;textDirection=vertical-lr;" parent="1" vertex="1">
+        <mxCell id="FY9fSNRc76BrtQjeK7CD-4" value="衣物器具浏览" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="712.75" y="257" width="50" height="111" as="geometry" />
         </mxCell>
         <mxCell id="FY9fSNRc76BrtQjeK7CD-5" value="租赁预约" style="whiteSpace=wrap;strokeWidth=2;textDirection=vertical-lr;fontSize=17;" parent="1" vertex="1">
